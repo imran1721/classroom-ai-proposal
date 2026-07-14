@@ -88,32 +88,9 @@ experience.
 - **Pilot-ready (phases 0–2): ~3 months**
 - **Launchable v1 (all phases): ~6–7 months** full-time solo.
 
-## 7. Commercials — partnership model
+## 7. Commercials
 
-Development is contributed in exchange for an ongoing share of revenue — the
-developer takes the risk alongside the business and shares in the upside.
-
-### Revenue share
-- **20–30% of gross revenue**, paid quarterly, with the right to inspect books.
-- Based on **gross revenue** (not "profit"), so it can't be diluted away by
-  loading costs against it.
-- **Downside protection:** if gross revenue is below [threshold] by month 12,
-  the share converts to an agreed cash amount owed for the work done.
-
-### Running costs (not part of the share)
-Cloud/AI usage scales with lessons and doubt volume. At ~10 schools /
-~15,000 students / ~2,000 lessons per month, expect **~₹1.1–1.5 L/month**
-(≈ ₹8–10 per student/month). Covered by the business, itemized — not absorbed
-into the developer's share.
-
-### Maintenance & new features (paid separately)
-Ongoing hosting oversight, fixes, and support: **₹75,000 – ₹1,25,000 / month**
-retainer. New features beyond v1 quoted separately or at **₹1,500–2,500/hr**.
-This is kept separate so running the product doesn't eat into the revenue share.
-
-### IP
-The developer retains **co-ownership of the IP** (or a license-back), not a
-full assignment.
+Commercial terms to be discussed directly.
 
 ## 8. Open decisions (need your call before we finalize)
 

@@ -88,11 +88,10 @@ experience.
 - **Pilot-ready (phases 0–2): ~3 months**
 - **Launchable v1 (all phases): ~6–7 months** full-time solo.
 
-## 7. Commercials — partnership model (no build fee)
+## 7. Commercials — partnership model
 
-There is **no upfront build fee**. Development is contributed in exchange for
-an ongoing share of revenue — i.e. the developer takes the risk alongside the
-business and shares the upside instead of billing for the build.
+Development is contributed in exchange for an ongoing share of revenue — the
+developer takes the risk alongside the business and shares in the upside.
 
 ### Revenue share
 - **20–30% of gross revenue**, paid quarterly, with the right to inspect books.
@@ -113,8 +112,8 @@ retainer. New features beyond v1 quoted separately or at **₹1,500–2,500/hr**
 This is kept separate so running the product doesn't eat into the revenue share.
 
 ### IP
-Given no build fee is charged, the developer retains **co-ownership of the IP**
-(or a license-back), not a full assignment.
+The developer retains **co-ownership of the IP** (or a license-back), not a
+full assignment.
 
 ## 8. Open decisions (need your call before we finalize)
 

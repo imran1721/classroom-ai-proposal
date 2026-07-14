@@ -88,31 +88,33 @@ experience.
 - **Pilot-ready (phases 0–2): ~3 months**
 - **Launchable v1 (all phases): ~6–7 months** full-time solo.
 
-## 7. Commercials
+## 7. Commercials — partnership model (no build fee)
 
-### Build fee (recommended: milestone-based fixed price)
+There is **no upfront build fee**. Development is contributed in exchange for
+an ongoing share of revenue — i.e. the developer takes the risk alongside the
+business and shares the upside instead of billing for the build.
 
-| Option | What you get | Price (INR) |
-|---|---|---|
-| **A. MVP / Pilot** | Phases 0–2 — a working pilot for one school | **₹8–10 L** |
-| **B. Launchable v1** | All phases, production-ready multi-school SaaS | **₹22–28 L** |
+### Revenue share
+- **20–30% of gross revenue**, paid quarterly, with the right to inspect books.
+- Based on **gross revenue** (not "profit"), so it can't be diluted away by
+  loading costs against it.
+- **Downside protection:** if gross revenue is below [threshold] by month 12,
+  the share converts to an agreed cash amount owed for the work done.
 
-Recommended structure: start with A to de-risk, credit it toward B if they
-continue. Milestone payments (see below).
-
-### Running costs (billed at cost, or cost + 10%)
+### Running costs (not part of the share)
 Cloud/AI usage scales with lessons and doubt volume. At ~10 schools /
 ~15,000 students / ~2,000 lessons per month, expect **~₹1.1–1.5 L/month**
-(≈ ₹8–10 per student/month). Billed monthly to the client, itemized.
+(≈ ₹8–10 per student/month). Covered by the business, itemized — not absorbed
+into the developer's share.
 
-### Post-launch maintenance (retainer)
-**₹75,000 – ₹1,25,000 / month** for hosting oversight, bug fixes, minor
-changes, and support. New features quoted separately or at **₹1,500–2,500/hr**.
+### Maintenance & new features (paid separately)
+Ongoing hosting oversight, fixes, and support: **₹75,000 – ₹1,25,000 / month**
+retainer. New features beyond v1 quoted separately or at **₹1,500–2,500/hr**.
+This is kept separate so running the product doesn't eat into the revenue share.
 
-### Payment schedule (for Option B)
-- 20% on signing
-- 4 milestone payments of 15% each on phase acceptance (1, 2, 3, 5)
-- 20% on launch acceptance
+### IP
+Given no build fee is charged, the developer retains **co-ownership of the IP**
+(or a license-back), not a full assignment.
 
 ## 8. Open decisions (need your call before we finalize)
 

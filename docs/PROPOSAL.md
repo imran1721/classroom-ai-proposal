@@ -20,8 +20,8 @@ searchable learning, and turns student confusion into data.
 
 **The loop:**
 
-1. A lesson is recorded (audio or video, English/Hindi) and slotted into a
-   chapter → lesson structure.
+1. A lesson is captured live while the teacher is teaching (audio or video,
+   English/Hindi) and tagged to a chapter → lesson.
 2. An automated pipeline transcribes it and generates clean, readable study
    content for that lesson.
 3. Students log in, read the lesson, and ask their doubts. An AI tutor answers
@@ -42,7 +42,7 @@ searchable learning, and turns student confusion into data.
 
 ### In scope (v1)
 - Multi-tenant SaaS: multiple schools, isolated data, per-school users & roles.
-- Lesson ingestion: audio/video upload, chapter/lesson organization.
+- Lesson ingestion: live in-class capture (audio/video) + chapter/lesson organization.
 - Processing pipeline: transcription (Hi/En) → generated readable content →
   search embeddings.
 - Student app: lesson reader + AI doubt-chat (answers grounded in the lesson).

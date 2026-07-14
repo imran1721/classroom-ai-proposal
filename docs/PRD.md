@@ -62,9 +62,14 @@ Row-level security isolates all data by `school_id`.
 - Roles and permissions per the table above.
 
 ### 5.2 Lesson ingestion
-- Teacher creates Subject → Chapter → Lesson structure.
-- Upload audio or video, or attach an existing recording, to a lesson.
-- Lesson shows processing status: `uploaded → transcribing → generating →
+- **Lessons are captured live, during the class** — not recorded separately.
+  The teacher starts capture at the beginning of the class and stops at the
+  end; capture runs in-app (teacher's device/browser) or from the school's
+  existing classroom mic/camera setup.
+- Before or after class, the teacher tags the recording to a Subject →
+  Chapter → Lesson (structure created once per subject).
+- Manual upload of an existing file remains a fallback path.
+- Lesson shows processing status: `captured → transcribing → generating →
   ready → (published)`.
 
 ### 5.3 Processing pipeline (async)
